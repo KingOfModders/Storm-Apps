@@ -18,7 +18,7 @@
     "Header": "Paid Dialog Box",
     "package_name": "com.openai.chatgpt",
     "version_code": 0,
-    "force_update": true,
+    "force_update": false,
     "title": "ChatGPT 🔥",
     "description_type": 1,
     "html_formatted": false,
