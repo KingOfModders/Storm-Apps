@@ -18,7 +18,7 @@
     "Header": "Capcut 16.9.0 16900100",
     "package_name": "com.lemon.lvoverseas",
     "version_code": 0,
-    "force_update": true,
+    "force_update": false,
     "title": "Update Required v14.6.0",
     "description_type": 1,
     "html_formatted": false,
