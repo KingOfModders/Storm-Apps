@@ -1,18 +1,18 @@
 [
   {
-    "id": "DSModsOfficial1",
+    "id": "18e9922208ba7528",
     "key": "key1",
     "expiresAt": "2026-08-24",
     "allowOffline": true
   },
   {
-    "id": "DSModsOfficial2",
+    "id": "18e9922208ba7528",
     "key": "key2",
     "expiresAt": "2026-08-24",
     "allowOffline": false
   },
   {
-    "id": "DSModsOfficial3",
+    "id": "18e9922208ba7528",
     "key": "key3",
     "expiresAt": "2025-08-20",
     "allowOffline": true
