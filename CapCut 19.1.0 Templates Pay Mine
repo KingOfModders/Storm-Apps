@@ -20,7 +20,13 @@
   {
     "id": "73bd75b47f8f5f18",
     "key": "FamousModder",
-    "expiresAt": "2026-08-30",
+    "expiresAt": "2026-08-25",
+    "allowOffline": true
+  },
+  {
+    "id": "b3096f7b287f75a5",
+    "key": "DS",
+    "expiresAt": "2026-08-25",
     "allowOffline": true
   },
   {
