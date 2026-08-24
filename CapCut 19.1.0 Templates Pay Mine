@@ -1,44 +1,26 @@
 [
   {
-    "id": "18e9922208ba7528",
-    "key": "key1",
-    "expiresAt": "2026-08-25",
-    "allowOffline": true
-  },
-  {
-    "id": "18e9922208ba7528",
-    "key": "key2",
-    "expiresAt": "2026-08-24",
-    "allowOffline": false
-  },
-  {
-    "id": "44aebd4628d74293",
-    "key": "test",
+    "id": "73bd75b47f8f5f18",
+    "key": "Abez",
     "expiresAt": "2026-08-30",
     "allowOffline": true
   },
   {
-    "id": "73bd75b47f8f5f18",
-    "key": "FamousModder",
-    "expiresAt": "2026-08-25",
+    "id": "b3096f7b287f75a5",
+    "key": "Paid",
+    "expiresAt": "2026-08-30",
     "allowOffline": true
   },
   {
-    "id": "b3096f7b287f75a5",
+    "id": "179c053192784c2a",
     "key": "DS",
-    "expiresAt": "2026-08-25",
+    "expiresAt": "2026-08-27",
     "allowOffline": true
   },
   {
     "id": "6872dbedff5a61f9",
     "key": "DS",
-    "expiresAt": "2026-08-25",
-    "allowOffline": true
-  },
-  {
-    "id": "18e9922208ba7528",
-    "key": "key3",
-    "expiresAt": "2025-08-20",
+    "expiresAt": "2026-08-27",
     "allowOffline": true
   }
 ]
