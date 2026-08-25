@@ -24,6 +24,12 @@
     "allowOffline": true
   },
   {
+    "id": "24c59cbb6e225159",
+    "key": "snmods",
+    "expiresAt": "2026-08-30",
+    "allowOffline": true
+  },
+  {
     "id": "6872dbedff5a61f9",
     "key": "DS",
     "expiresAt": "2026-08-27",
