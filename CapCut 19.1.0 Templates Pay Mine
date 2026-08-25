@@ -102,6 +102,12 @@
     "allowOffline": true
   },
   {
+    "id": "5a3b2dee604fac69",
+    "key": "RM",
+    "expiresAt": "2026-09-26",
+    "allowOffline": true
+  },
+  {
     "id": "b777435c2a19ef38",
     "key": "MDBelal",
     "expiresAt": "2026-09-26",
