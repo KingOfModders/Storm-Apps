@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fkqh68616",
+    "key": "Test",
+    "expiresAt": "2026-09-26",
+    "allowOffline": false
+  },
+  {
+    "id": "359ejfk676",
+    "key": "DS",
+    "expiresAt": "2026-08-27",
+    "allowOffline": true
+  }
+]
