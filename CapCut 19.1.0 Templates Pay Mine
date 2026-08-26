@@ -12,6 +12,12 @@
     "allowOffline": true
   },
   {
+    "id": "34499fb95547c08c",
+    "key": "dsmods",
+    "expiresAt": "2026-08-28",
+    "allowOffline": true
+  },
+  {
     "id": "179c053192784c2a",
     "key": "DS",
     "expiresAt": "2026-08-27",
