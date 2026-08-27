@@ -576,6 +576,12 @@
     "allowOffline": true
   },
   {
+    "id": "939d85fc81a72c24",
+    "key": "RM",
+    "expiresAt": "2026-09-27",
+    "allowOffline": true
+  },
+  {
     "id": "6872dbedff5a61f9",
     "key": "Morshed",
     "expiresAt": "2026-08-27",
