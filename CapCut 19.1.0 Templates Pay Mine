@@ -672,6 +672,12 @@
     "allowOffline": true
   },
   {
+    "id": "2956be2971fef590",
+    "key": "RM",
+    "expiresAt": "2026-09-27",
+    "allowOffline": true
+  },
+  {
     "id": "e511448bf66a70a7",
     "key": "Minhaz",
     "expiresAt": "2026-09-27",
