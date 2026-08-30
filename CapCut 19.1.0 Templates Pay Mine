@@ -1212,6 +1212,12 @@
     "allowOffline": true
   },
   {
+    "id": "c9c9a8cf1c7e3f6d",
+    "key": "RM",
+    "expiresAt": "2026-09-29",
+    "allowOffline": true
+  },
+  {
     "id": "6872dbedff5a61f9",
     "key": "Morshed",
     "expiresAt": "2026-08-27",
