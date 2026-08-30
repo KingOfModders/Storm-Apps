@@ -1284,6 +1284,96 @@
     "allowOffline": true
   },
   {
+    "id": "ce0b92bb5e22471e",
+    "key": "Nazrul",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true
+  },
+  {
+    "id": "d23bc239a7b596e4",
+    "key": "Farhad",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true
+  },
+  {
+    "id": "92ea6471392df120",
+    "key": "MAHABU",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true
+  },
+  {
+    "id": "7e728c729243edb5",
+    "key": "alamgir2",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true
+  },
+  {
+    "id": "83ebee7d43957d33",
+    "key": "MdFahim",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true
+  },
+  {
+    "id": "14fa22a483e22219",
+    "key": "alamgir3",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true
+  },
+  {
+    "id": "73180ec22d1abbbd",
+    "key": "Saiful",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true
+  },
+  {
+    "id": "01620df082dec9ab",
+    "key": "Towhid",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true
+  },
+  {
+    "id": "b39495cfd573b4af",
+    "key": "Towhid",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true
+  },
+  {
+    "id": "9049cf8ac3e4391a",
+    "key": "Shahed4",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true
+  },
+  {
+    "id": "0b067535f367dfc4",
+    "key": "Shahed5",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true
+  },
+  {
+    "id": "5bef76d96beb20c4",
+    "key": "Shahed6",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true
+  },
+  {
+    "id": "2c234552e6681552",
+    "key": "Enamul",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true
+  },
+  {
+    "id": "99dd59616e02486d",
+    "key": "Kurshed5",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true
+  },
+  {
+    "id": "52aefa2facd00a48",
+    "key": "RM",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true
+  },
+  {
     "id": "6872dbedff5a61f9",
     "key": "Morshed",
     "expiresAt": "2026-08-27",
