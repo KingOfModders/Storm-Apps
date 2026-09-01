@@ -1,11 +1,5 @@
 [
   {
-    "id": "73bd75b47f8f5f18",
-    "key": "Abez",
-    "expiresAt": "2026-08-30",
-    "allowOffline": true
-  },
-  {
     "id": "b3096f7b287f75a5",
     "key": "Paid",
     "expiresAt": "2026-08-30",
@@ -1867,7 +1861,7 @@
   },
   {
     "id": "73bd75b47f8f5f18",
-    "key": "Abez",
+    "key": "ABEZOFFICIAL",
     "expiresAt": "2026-10-01",
     "allowOffline": true
   },
