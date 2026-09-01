@@ -1620,6 +1620,12 @@
     "allowOffline": true
   },
   {
+    "id": "4bbea09c4d7ff88f",
+    "key": "RM",
+    "expiresAt": "2026-10-01",
+    "allowOffline": true
+  },
+  {
     "id": "99bd4d5500a21e6c",
     "key": "SAIMON2434",
     "expiresAt": "2026-10-01",
