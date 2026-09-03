@@ -2124,7 +2124,7 @@
     "allowOffline": true
   },
   {
-    "id": "ae3b05136ee4bb9d"
+    "id": "ae3b05136ee4bb9d",
     "key": "RM",
     "expiresAt": "2026-10-03",
     "allowOffline": true
@@ -2163,12 +2163,6 @@
     "id": "28e102a645131b75",
     "key": "112233",
     "expiresAt": "2026-10-04",
-    "allowOffline": true
-  },
-  {
-    "id": "6872dbedff5a61f9",
-    "key": "Morshed",
-    "expiresAt": "2026-08-27",
     "allowOffline": true
   }
 ]
