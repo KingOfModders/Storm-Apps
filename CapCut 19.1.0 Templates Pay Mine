@@ -1,20 +1,8 @@
 [
   {
-    "id": "b3096f7b287f75a5",
-    "key": "Paid",
-    "expiresAt": "2026-08-30",
-    "allowOffline": true
-  },
-  {
     "id": "34499fb95547c08c",
     "key": "dsmods",
     "expiresAt": "2026-08-28",
-    "allowOffline": true
-  },
-  {
-    "id": "179c053192784c2a",
-    "key": "DS",
-    "expiresAt": "2026-08-27",
     "allowOffline": true
   },
   {
@@ -324,12 +312,6 @@
     "allowOffline": true
   },
   {
-    "id": "90c79234a39fd5d7",
-    "key": "Khaliey1",
-    "expiresAt": "2026-09-26",
-    "allowOffline": true
-  },
-  {
     "id": "09b6dd53655a0b36",
     "key": "Mustak1",
     "expiresAt": "2026-09-26",
@@ -468,12 +450,6 @@
     "allowOffline": true
   },
   {
-    "id": "cf13e453512dfcc1",
-    "key": "RM",
-    "expiresAt": "2026-09-26",
-    "allowOffline": true
-  },
-  {
     "id": "509da1b364a551ef",
     "key": "RM",
     "expiresAt": "2026-09-26",
@@ -499,12 +475,6 @@
   },
   {
     "id": "b9af8a12088253af",
-    "key": "RM",
-    "expiresAt": "2026-09-26",
-    "allowOffline": true
-  },
-  {
-    "id": "74a4cf59b5cc2679",
     "key": "RM",
     "expiresAt": "2026-09-26",
     "allowOffline": true
@@ -1212,12 +1182,6 @@
     "allowOffline": true
   },
   {
-    "id": "c9c9a8cf1c7e3f6d",
-    "key": "RM",
-    "expiresAt": "2026-09-29",
-    "allowOffline": true
-  },
-  {
     "id": "687026be48e1c9be",
     "key": "RM",
     "expiresAt": "2026-09-29",
@@ -1398,12 +1362,6 @@
     "allowOffline": true
   },
   {
-    "id": "99bd4d5500a21e6c",
-    "key": "SAIMON2434",
-    "expiresAt": "2026-09-30",
-    "allowOffline": true
-  },
-  {
     "id": "b57b6a4d732ac374",
     "key": "Belal",
     "expiresAt": "2026-09-30",
@@ -1454,7 +1412,7 @@
   {
     "id": "332ecd9be5d415d3",
     "key": "Amelia",
-    "expiresAt": "2026-09-1",
+    "expiresAt": "2026-09-01",
     "allowOffline": true
   },
   {
@@ -1574,7 +1532,7 @@
   {
     "id": "178b71ab8236f3f6",
     "key": "Amelia",
-    "expiresAt": "2026-09-1",
+    "expiresAt": "2026-09-01",
     "allowOffline": true
   },
   {
@@ -1604,12 +1562,6 @@
   {
     "id": "87dfb9c8a8d63e7e",
     "key": "SAIMON2434",
-    "expiresAt": "2026-10-01",
-    "allowOffline": true
-  },
-  {
-    "id": "4bbea09c4d7ff88f",
-    "key": "RM",
     "expiresAt": "2026-10-01",
     "allowOffline": true
   },
@@ -1723,12 +1675,6 @@
   },
   {
     "id": "a1875c0604eb1065",
-    "key": "RM",
-    "expiresAt": "2026-10-01",
-    "allowOffline": true
-  },
-  {
-    "id": "392dbad349628351",
     "key": "RM",
     "expiresAt": "2026-10-01",
     "allowOffline": true
