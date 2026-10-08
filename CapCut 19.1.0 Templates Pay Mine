@@ -368,7 +368,7 @@
   {
     "id": "491ee22ae820ba64",
     "key": "Iftakhairul",
-    "expiresAt": "2026-09-26",
+    "expiresAt": "2026-11-08",
     "allowOffline": true
   },
   {
@@ -697,12 +697,6 @@
   },
   {
     "id": "8eff72dbe11532e1",
-    "key": "Iftakhairul",
-    "expiresAt": "2026-09-29",
-    "allowOffline": true
-  },
-  {
-    "id": "d99bfd9a2245cc8e",
     "key": "Iftakhairul",
     "expiresAt": "2026-09-29",
     "allowOffline": true
